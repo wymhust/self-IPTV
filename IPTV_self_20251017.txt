@@ -17,9 +17,9 @@ CCTV-14,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV14&t=1760585411
 CCTV-15,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV15&t=1760585411&token=09554eaa18bb7938b0a35bcb56022466
 CCTV-16,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV16&t=1760585411&token=eb2b75771d80d23c058e0a85107d1183
 CCTV-17,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV17&t=1760585411&token=89eb1f4f348a08ea121906fb91d25934
-CETV-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
-CETV-2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
-CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
+CETV-1,https://stream.iptv-search.com/iptv_test/main.php?id=CETV1&t=1760585411&token=1f2f035bfffefb73aa1c1977ee603b33
+CETV-2,https://stream.iptv-search.com/iptv_test/main.php?id=CETV2&t=1760585411&token=867d79d929d9a3d9216b293f4bd4c37b
+CETV-4,https://stream.iptv-search.com/iptv_test/main.php?id=CETV4&t=1760585411&token=6ff5c5747e3adf8aba180a2ca54d2a0d
 CCTV-4欧洲,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV4%E6%AC%A7%E6%B4%B2&t=1760585411&token=da268c366a4e6adc06b5dc3324870b76
 CCTV-4美洲,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV4%E7%BE%8E%E6%B4%B2&t=1760585411&token=11cbe0ca2025e00d706af0bcbbdfffe3
 
@@ -75,6 +75,7 @@ CCTV-4美洲,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV4%E7%BE%8E
 无线新闻台，https://stream.iptv-search.com/iptv_test/main.php?id=%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0&t=1760585411&token=47a0ccc5fd19c60136ef8e9f357d1bc2
 无线新闻台，https://stream.iptv-search.com/iptv_test/main.php?id=TVB%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB&t=1759030213&token=6e3246ef0e85f20f24e59c25052f5d94
 无线新闻台，https://stream.iptv-search.com/iptv_test/main.php?id=%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0&t=1759030213&token=e1984154bf7ed0a37565cffd0cac873e
+翡翠台，https://stream.iptv-search.com/iptv_test/main.php?id=TVB%E7%BF%A1%E7%BF%A0%E5%8F%B04K&t=1759030213&token=11dbe9509de2ed321beb2a989db88749
 明珠台，https://stream.iptv-search.com/iptv_test/main.php?id=%E6%98%8E%E7%8F%A0%E5%8F%B0&t=1760585411&token=1b795aa9f77dd8046bb05ce97ee38ea0
 明珠台，https://stream.iptv-search.com/iptv_test/main.php?id=TVB%E6%98%8E%E7%8F%A0%E5%8F%B0&t=1759030213&token=b9e7226b0c8937ed9a2ca1a9786563b4
 中天新闻，https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB%E5%8F%B0&t=1760585411&token=931f1bcfc8b2ba653d12da766020e0de
@@ -100,7 +101,7 @@ TVBS，https://stream.iptv-search.com/iptv_test/main.php?id=TVBS&t=1757403106&to
 三立iNEWS，https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%89%E7%AB%8BiNEWS&t=1760585411&token=fbef147e29607bd1336ac44678e8fb65
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-
+Arirang,https://stream.iptv-search.com/iptv_test/main.php?id=arirang+KOREA&t=1760585411&token=ee5702eba2b6d72f3d8b3f8b2ffd5f2a
 TRT World,http://parking.treasureislandresortsworld.com:1001/hls/310/index.m3u8
 TRT World,http://210.210.155.35/uq2663/h/h156/index2.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=TRT_World
 NHK World,https://stream.iptv-search.com/iptv_test/main.php?id=NHK+World-Japan+%28720p%29&t=1760585411&token=15accfc82c5db92a27738ed690e831d9
@@ -150,9 +151,16 @@ CHC影迷电影，https://stream.iptv-search.com/iptv_test/main.php?id=CHC%E5%BD
 孝感生活，https://stream.iptv-search.com/iptv_test/main.php?id=%E5%AD%9D%E6%84%9F%E7%94%9F%E6%B4%BB&t=1759030213&token=002bac1ee0803fcfa42cf8afdf00e7e
 汉川新闻，https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B1%89%E5%B7%9D%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&t=1760585411&token=5bb16661c4b8a0b477efa78246929ab8
 汉川新闻，https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B1%89%E5%B7%9D%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&t=1757403106&token=279a694104128442295e5e746a4ab173
+荆门新闻,https://stream.iptv-search.com/iptv_test/main.php?id=%E8%8D%86%E9%97%A8%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&t=1760585411&token=4c16d47651dcf009d7c38d43c91353aa
+荆门科教,https://stream.iptv-search.com/iptv_test/main.php?id=%E8%8D%86%E9%97%A8%E7%A7%91%E6%95%99%E6%96%87%E6%97%85&t=1760585411&token=c423faf69428dbe61d78cb654df3857a
+
+
+
+
 
 其他频道,#genre#
 熊猫频道1，https://stream.iptv-search.com/iptv_test/main.php?id=%E7%86%8A%E7%8C%AB%E9%A2%91%E9%81%931&t=1760585411&token=dfcd12fc2f4cbc4c344134eac5ea1ada
 熊猫频道2，https://stream.iptv-search.com/iptv_test/main.php?id=%E7%86%8A%E7%8C%AB%E9%A2%91%E9%81%932&t=1760585411&token=9de7421c64e5f245581c890c61c03ab3
-
+苏州4K，https://stream.iptv-search.com/iptv_test/main.php?id=%E8%8B%8F%E5%B7%9E4K%E9%A2%91%E9%81%93&t=1760585411&token=e90c9c80e643d30e17162828eb654427
+直播中国，https://stream.iptv-search.com/iptv_test/main.php?id=%E7%9B%B4%E6%92%AD%E4%B8%AD%E5%9B%BD&t=1757403106&token=390cbb71e53f3473e83dc187fe514bb9
 
