@@ -1,27 +1,27 @@
 央视频道,#genre#
-CCTV-1 综合,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV1&t=1760585411&token=df1eaa2ae08936d8da14fe1274694f28
-CCTV-2 财经,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV2&t=1760585411&token=b62ec217c9ea32b3ba58ffee43c1e567
-CCTV-3 综艺,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV3&t=1760585411&token=d62685a3c74216fb529a697d66a6e0c9
-CCTV-4 中文国际,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV4%281080p%29&t=1760585411&token=4b9e4365dd539fe9122198078d7fc6e6
-CCTV-5 体育,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV5&t=1760585411&token=11ca3f429dba1df4ad42fb1f50512dfa
-CCTV-5+体育赛事,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV5%2B&t=1760585411&token=4555e6dbb64f42fbc0175bc8069bd14d
-CCTV-6 电影,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV6&t=1760585411&token=944b6327597e5ab6e14998beedd01e06
-CCTV-7 国防军事,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV7&t=1760585411&token=ef4566ffc523128175204c2939d3a5b8
-CCTV-8 电视剧,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV8&t=1760585411&token=68364a3ee862acfdd15da4c8d59bac6e
-CCTV-9 纪录,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV9&t=1760585411&token=da9c8b1a8c75b3a27e5d2813c00dc7b2
-CCTV-10 科教,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV10&t=1760585411&token=904dc116f371d163a15a0f3a5bfe48cc
-CCTV-11 戏曲,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV11&t=1760585411&token=821b5631124e90e68b543463dba4e16a
-CCTV-12 社会与法,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV12&t=1760585411&token=59ec7ffad1e9e9e38e9afbc330fbea04
-CCTV-13 新闻,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV13&t=1760585411&token=cde87db33a1a9c36c65a2f73e3a9ff07
-CCTV-14 少儿,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV14&t=1760585411&token=80bd93b5d36b1ec98fcd22d9f926ee09
-CCTV-15 音乐,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
-CCTV-16 奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-CCTV-17 农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-CETV-1 中国教育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
-CETV-2 中国教育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
-CETV-4 中国教育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
-CCTV-4 欧洲,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV4%E6%AC%A7%E6%B4%B2&t=1760585411&token=da268c366a4e6adc06b5dc3324870b76
-CCTV4 美洲,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV4%E7%BE%8E%E6%B4%B2&t=1760585411&token=11cbe0ca2025e00d706af0bcbbdfffe3
+CCTV-1,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV1&t=1760585411&token=df1eaa2ae08936d8da14fe1274694f28
+CCTV-2,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV2&t=1760585411&token=b62ec217c9ea32b3ba58ffee43c1e567
+CCTV-3,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV3&t=1760585411&token=d62685a3c74216fb529a697d66a6e0c9
+CCTV-4,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV4%281080p%29&t=1760585411&token=4b9e4365dd539fe9122198078d7fc6e6
+CCTV-5,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV5&t=1760585411&token=11ca3f429dba1df4ad42fb1f50512dfa
+CCTV-5+,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV5%2B&t=1760585411&token=4555e6dbb64f42fbc0175bc8069bd14d
+CCTV-6,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV6&t=1760585411&token=944b6327597e5ab6e14998beedd01e06
+CCTV-7,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV7&t=1760585411&token=ef4566ffc523128175204c2939d3a5b8
+CCTV-8,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV8&t=1760585411&token=68364a3ee862acfdd15da4c8d59bac6e
+CCTV-9,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV9&t=1760585411&token=da9c8b1a8c75b3a27e5d2813c00dc7b2
+CCTV-10,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV10&t=1760585411&token=904dc116f371d163a15a0f3a5bfe48cc
+CCTV-11,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV11&t=1760585411&token=821b5631124e90e68b543463dba4e16a
+CCTV-12,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV12&t=1760585411&token=59ec7ffad1e9e9e38e9afbc330fbea04
+CCTV-13,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV13&t=1760585411&token=cde87db33a1a9c36c65a2f73e3a9ff07
+CCTV-14,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV14&t=1760585411&token=80bd93b5d36b1ec98fcd22d9f926ee09
+CCTV-15,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV15&t=1760585411&token=09554eaa18bb7938b0a35bcb56022466
+CCTV-16,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV16&t=1760585411&token=eb2b75771d80d23c058e0a85107d1183
+CCTV-17,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV17&t=1760585411&token=89eb1f4f348a08ea121906fb91d25934
+CETV-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
+CETV-2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
+CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
+CCTV-4欧洲,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV4%E6%AC%A7%E6%B4%B2&t=1760585411&token=da268c366a4e6adc06b5dc3324870b76
+CCTV-4美洲,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV4%E7%BE%8E%E6%B4%B2&t=1760585411&token=11cbe0ca2025e00d706af0bcbbdfffe3
 
 卫视频道,#genre#
 浙江卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&t=1760585411&token=8d146785241f7cc3cca773a2f7881fcd
@@ -50,122 +50,109 @@ CCTV4 美洲,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV4%E7%BE%8E
 贵州卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86&t=1760585411&token=0655dcaaa41cfb56b94f990d998af551
 内蒙古卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&t=1760585411&token=96a66fd5a163abfaffb0d89093c877b7
 黑龙江卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86&t=1760585411&token=2632b230666c41bb5b8af3046bd61e23
-深圳卫视,http://39.134.67.108/PLTV/88888888/224/3221225943/1.m3u8
+深圳卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&t=1760585411&token=538edadf5c4b4d5e6e837d981d0cb5e8
 东南卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86&t=1760585411&token=70d8fd2d048aee0b3436a8ed1a161785
 三沙卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86&t=1760585411&token=32a71b01c95fbab09c016decd5a754b7
 大湾区卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&t=1760585411&token=c371588448601e2db55be7c3a26b4724
 海南卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&t=1760585411&token=fc9c26bbc37e5af7793a65134e169477
 青海卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&t=1760585411&token=78dc7b7d959a7a4dbe90284406cf66d4
 海峡卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B5%B7%E5%B3%A1%E5%8D%AB%E8%A7%86&t=1760585411&token=7d661ff92492e988eb8b6cef1e8ccbdb
-新疆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
-西藏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8
+新疆卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86&t=1760585411&token=4ae1862d33270f5117c7d71431b29c38
+西藏卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86&t=1760585411&token=fc5ff2151d57947abc8814865fa02859
 兵团卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86&t=1760585411&token=0dccfb35ad42f88f22d6f57a2e960c2f
 延边卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%BB%B6%E8%BE%B9%E5%8D%AB%E8%A7%86&t=1760585411&token=6cc2346c995617f4c19f7a65e43a86da
-安多卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
+安多卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E9%9D%92%E6%B5%B7%E5%AE%89%E5%A4%9A%E5%8D%AB%E8%A7%86&t=1760585411&token=ae6d366eaf0b922542b6546096615b05
 康巴卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%BA%B7%E5%B7%B4%E5%8D%AB%E8%A7%86&t=1760585411&token=ca5a3d21d689b191190f283f47dbfaab
 人间卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%BA%BA%E9%97%B4%E5%8D%AB%E8%A7%86&t=1760585411&token=349ca181afac0a4e6761870ba7ce9342
 
 海外频道,#genre#
-翡翠台, http://liveplay.wesingapp.com/live/CL7gYJcMM5BXZvyamZly3XZnyMmRJ0hwpTp12oP6KkG1PhQWJK.flv
-明珠,http://liveplay.wesingapp.com/live/fiUuXZC6C8vRRfGvuUTOUJqf5P0hwpTH9BhEE7d6usSBcnv4Ar.flv
-无线新闻, http://liveplay.wesingapp.com/live/iUJnBYKU9riuj2Jlibsdwb5m69FKfo0hwpTgNC09xXfFvAn4GP.flv
-TVB-plus, http://liveplay.wesingapp.com/live/O5YSEcBsq1Sn0hwpTdrf2uC7Ub3lAtYhmtOhbZFhdCdSpkHMDe.flv
-ViuTV,http://liveplay.wesingapp.com/live/qwBoHYA5D4CJaoEgtcAi3kQJ0f0hwpTov2AtSIL9RQVzndAtee.flv
-有线新闻,http://liveplay.wesingapp.com/live/jZZ2hCFnEcClg2McuImLPcRz0hwpTaXDBKtltuWtYkNUFb7FPU.flv
-凤凰中文, http://liveplay.wesingapp.com/live/gwS5kbEwNmWObygXxkdd0hwpTYr0rZAqkFgLZRwPewJMVnfHy8.flv
-凤凰资讯, http://liveplay.wesingapp.com/live/7KUcGQoK70hwpTK0vAuRVWGZSscrMD5x2eSGbg4y8YFVh6dd2S.flv
-凤凰香港,http://liveplay.wesingapp.com/live/uEACKo2YT4ZTiHBMNM2g49d00j924NASwca40hwpT6hsAvKE1L.flv
-凤凰资讯,http://bx.757888.xyz/api.php?id=fhzx
-凤凰中文,http://bx.757888.xyz/api.php?id=fhzw
-凤凰香港,http://bx.757888.xyz/api.php?id=fhhk
-凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰中文AKtv,http://s1.an94tv.cfd/aktv/CH-3/AKTV.m3u8
-凤凰资讯AKtv,http://s1.an94tv.cfd/aktv/CH-4/AKTV.m3u8
-凤凰香港AKtv,http://s1.an94tv.cfd/aktv/CH-5/AKTV.m3u8
+凤凰中文,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87&t=1760585411&token=a3273800aae6f441f4e2d29b2e5548ea
+凤凰资讯,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF&t=1760585411&token=7febd5c752dfb809741498d669ef0cad
+凤凰资讯,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AFHD&t=1759030213&token=fe01558d5195de9e55f15219d6bda409
+凤凰资讯,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF%E9%AB%98%E6%B8%85&t=1759030213&token=f41e72bb76ad2c92c53f16c92c48e236
+凤凰香港,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF&t=1760585411&token=3204f88a14e73924374c42ba4794dc16
+凤凰香港,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF%E5%8F%B0&t=1759030213&token=1c99061bead28347fcdb6b7ac60f5aed
+无线新闻台，https://stream.iptv-search.com/iptv_test/main.php?id=%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0&t=1760585411&token=47a0ccc5fd19c60136ef8e9f357d1bc2
+无线新闻台，https://stream.iptv-search.com/iptv_test/main.php?id=TVB%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB&t=1759030213&token=6e3246ef0e85f20f24e59c25052f5d94
+无线新闻台，https://stream.iptv-search.com/iptv_test/main.php?id=%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0&t=1759030213&token=e1984154bf7ed0a37565cffd0cac873e
+明珠台，https://stream.iptv-search.com/iptv_test/main.php?id=%E6%98%8E%E7%8F%A0%E5%8F%B0&t=1760585411&token=1b795aa9f77dd8046bb05ce97ee38ea0
+明珠台，https://stream.iptv-search.com/iptv_test/main.php?id=TVB%E6%98%8E%E7%8F%A0%E5%8F%B0&t=1759030213&token=b9e7226b0c8937ed9a2ca1a9786563b4
+中天新闻，https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB%E5%8F%B0&t=1760585411&token=931f1bcfc8b2ba653d12da766020e0de
+中天新闻，https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB&t=1759030213&token=7215e767d0732219c381eb9a486edd75
+中天新闻，https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB+HD&t=1759030213&token=fad10f6c737197d60e586ff6084d7fd7
+TVBS，https://stream.iptv-search.com/iptv_test/main.php?id=TVBS&t=1760585411&token=d1fc10d72f62c9b3480ae5e161a530f5
+TVBS，https://stream.iptv-search.com/iptv_test/main.php?id=TVBS&t=1759030213&token=f7d6a720ce2c247279f75a2f0aa4f362
+TVBS，https://stream.iptv-search.com/iptv_test/main.php?id=TVBS&t=1757403106&token=23327077695733860f2b417d47f317a9
+东森新闻，https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB&t=1760585411&token=e143c6290cdaa4c315b74a96a2591993
+东森新闻，https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB&t=1759030213&token=79303e390bb9bf8ae9e958c3d48e9a8e
+东森新闻，https://stream.iptv-search.com/iptv_test/main.php?id=%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9E&t=1759030213&token=817e8275992a2dfc9d14a4e4bc68e8d8
+环球电视，https://stream.iptv-search.com/iptv_test/main.php?id=%E7%8E%AF%E7%90%83%E7%94%B5%E8%A7%86&t=1759030213&token=b642875f4080ff0043c224375f6921c5
+台视新闻，https://stream.iptv-search.com/iptv_test/main.php?id=%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB&t=1760585411&token=4a3c775c74948fe7471649ec49c62696
+台视新闻，https://stream.iptv-search.com/iptv_test/main.php?id=%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB&t=1759030213&token=5ad764ad390ef9b8e58988810941bfac
+台视新闻，https://stream.iptv-search.com/iptv_test/main.php?id=%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB&t=1757403106&token=c7ce0fbfc2a5c15b40b27a5dfd461764
+中视新闻，https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB&t=1760585411&token=4df54492ba884d578f7b0115f46503b1
+中视新闻，https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB&t=1759030213&token=363c340e7ec545a96dacd17ec2bcfe8c
+中视新闻，https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB&t=1757403106&token=ce2396c627431da26e4de8e95ba1dac3
+民视新闻，https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB&t=1759030213&token=7c21c70fadd337301654e13f9cb040d5
+民视新闻，https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB&t=1757403106&token=61016017404e28bd03672a4109032639
+三立新闻，https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%89%E7%AB%8B%E6%96%B0%E8%81%9E&t=1759030213&token=600f8d5ea4d93c3241d8235e7192b415
+三立新闻，https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%89%E7%AB%8B%E6%96%B0%E8%81%9E&t=1757403106&token=8df8f19794454f4ae562e39fdf87bc7b
+三立iNEWS，https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%89%E7%AB%8BiNEWS&t=1760585411&token=fbef147e29607bd1336ac44678e8fb65
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
+TRT World,http://parking.treasureislandresortsworld.com:1001/hls/310/index.m3u8
+TRT World,http://210.210.155.35/uq2663/h/h156/index2.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=TRT_World
+NHK World,https://stream.iptv-search.com/iptv_test/main.php?id=NHK+World-Japan+%28720p%29&t=1760585411&token=15accfc82c5db92a27738ed690e831d9
+NHK World,https://stream.iptv-search.com/iptv_test/main.php?id=NHKWorld&t=1760585411&token=ce8f138b424685afff52b1aa33148011
+NHK World,https://stream.iptv-search.com/iptv_test/main.php?id=NHKWorld&t=1759030213&token=388692a7b841b29ff2bfa87a22012a12
+BBC News,https://stream.iptv-search.com/iptv_test/main.php?id=BBC+News+Asia+Pacific+%281080p%29&t=1760585411&token=a38db6637755ae68d184f9b565364629
+CNN,https://stream.iptv-search.com/iptv_test/main.php?id=CNN+USA+%28720p%29&t=1760585411&token=eedf255124e1f351f5d122812c2d309d
+CNN,https://stream.iptv-search.com/iptv_test/main.php?id=CNN+USA+%28720p%29&t=1759030213&token=ca669afa4da98d66389d79f9debbfb98
+Al Jazeera，https://stream.iptv-search.com/iptv_test/main.php?id=Al+Jazeera+English+%281080p%29&t=1760585411&token=aa8cf04135d9ef20e7176b1ba6fb239b
+Al Jazeera，https://stream.iptv-search.com/iptv_test/main.php?id=Al+Jazeera+%281080p%29&t=1760585411&token=e14c822b475d95e5a6bec9a22d486879
+Al Jazeera，,https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 
 影视频道,#genre#
-CHC影迷电影,http://kkk.888.3116598.xyz/api.php?n=6887925&id=4xVXzz&tk=uVpEJ37ah2Aq
-CHC动作电影,http://kkk.888.3116598.xyz/api.php?n=6887925&id=w2Ms70&tk=uVpEJ37ah2Aq
-CHC家庭影院,http://kkk.888.3116598.xyz/api.php?n=6887925&id=xvAnyv&tk=uVpEJ37ah2Aq
-CHC影迷电影,http://kkk.888.3116598.xyz/api.php?n=6887925&id=PWt4UL&tk=uVpEJ37ah2Aq
-CHC动作电影,http://kkk.888.3116598.xyz/api.php?n=6887925&id=DDbcYG&tk=uVpEJ37ah2Aq
-CHC家庭影院,http://kkk.888.3116598.xyz/api.php?n=6887925&id=UgxzLB&tk=uVpEJ37ah2Aq
-影迷电影,http://qwt.zhibotv.top:2016/全网通.php?id=CHC影迷电影
-影迷电影,http://58.19.38.162:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-影迷电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcymdy
-家庭影院,http://qwt.zhibotv.top:2016/全网通.php?id=CHC家庭影院
-家庭影院,http://58.19.38.162:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-家庭影院,http://php.jdshipin.com/TVOD/iptv.php?id=chcjtyy
-动作电影,http://qwt.zhibotv.top:2016/全网通.php?id=CHC动作电影
-动作电影,http://58.19.38.162:9901/tsfile/live/1005_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-动作电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcdzdy
-动作电影,http://ss.baihuan.online:35455/mgtv/644368714.m3u8
-家庭影院,http://ss.baihuan.online:35455/mgtv/644368373.m3u8
-影迷电影,http://ss.baihuan.online:35455/mgtv/952383261.m3u8
-CHC影迷电影,http://www.520345.xyz:8188/rtp/239.69.1.241:11088
-CHC影迷电影,http://112.5.37.130:8880/mgtv/952383261.m3u8
-CHC动作电影,http://112.5.37.130:8880/mgtv/644368714.m3u8
-CHC家庭影院,http://112.5.37.130:8880/mgtv/644368373.m3u8
-CHC影迷电影,http://110.40.39.111:10216/mgtv/952383261.m3u8
-CHC动作电影,http://110.40.39.111:10216/mgtv/644368714.m3u8
-CHC家庭影院,http://110.40.39.111:10216/mgtv/644368373.m3u8
-CHC动作电影,http://8.138.7.223/tv/migu2.php?id=62
+CHC动作电影，https://stream.iptv-search.com/iptv_test/main.php?id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&t=1760585411&token=6c7bcb41bc9422f0abecdc368ef1958d
+CHC家庭影院，https://stream.iptv-search.com/iptv_test/main.php?id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&t=1760585411&token=687870915695d42134a3f98e7991985d
+CHC影迷电影，https://stream.iptv-search.com/iptv_test/main.php?id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&t=1760585411&token=cb0f6a1116a6d073cd0484b647e3bebc
+CHC影迷电影，https://stream.iptv-search.com/iptv_test/main.php?id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&t=1759030213&token=6f303043274d3c6987799589d0a9ab82
+CHC影迷电影，https://stream.iptv-search.com/iptv_test/main.php?id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&t=1757403106&token=77e46c4008b7f8870611a5ffe75167f0
+美亚电影，https://stream.iptv-search.com/iptv_test/main.php?id=%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1&t=1760585411&token=ab0431c2e85cfca0197ceeb85c555a57
+苏州电影，https://stream.iptv-search.com/iptv_test/main.php?d=%E8%8B%8F%E5%B7%9E%E7%94%B5%E5%BD%B1%E5%A8%B1%E4%B9%90%E4%BF%A1%E6%81%AF&t=1760585411&token=b2e0922eb63947454ea83fd5f529e33c
+靖天电影，https://stream.iptv-search.com/iptv_test/main.php?id=%E9%9D%96%E5%A4%A9%E7%94%B5%E5%BD%B1&t=1760585411&token=1696d5d67ce1bc540678e7ebb88b6213
+湖南电影，https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B9%96%E5%8D%97%E7%94%B5%E5%BD%B1&t=1760585411&token=5b25e1f56b6eec42df12947727c14d97
+纬来电影，https://stream.iptv-search.com/iptv_test/main.php?id=%E7%BA%AC%E6%9D%A5%E7%94%B5%E5%BD%B1%E5%8F%B0&t=1759030213&token=7209dd155f19fac87d57aba6b4baffaf
+天映电影，https://stream.iptv-search.com/iptv_test/main.php?id=%E5%A4%A9%E6%98%A0%E7%94%B5%E5%BD%B1&t=1759030213&token=939bff9914b480051a1499e2f2bfb139
+星卫电影，https://stream.iptv-search.com/iptv_test/main.php?id=%E6%98%9F%E5%8D%AB%E7%94%B5%E5%BD%B1&t=1759030213&token=a02d4f770121fbc5164ab5e4976b66fa
+龙华电影，https://stream.iptv-search.com/iptv_test/main.php?id=%E9%BE%99%E5%8D%8E%E7%94%B5%E5%BD%B1&t=1759030213&token=e8117f4b32d3e6f2e39e6e2941c4645e
+新昌影视，https://stream.iptv-search.com/iptv_test/main.php?id=%E6%96%B0%E6%98%8C%E4%BC%91%E9%97%B2%E5%BD%B1%E8%A7%86+%281080p%29+%5BNot+24%2F7%5D&t=1760585411&token=148bdb692d67635c300430c99ac67278
+永清影视，https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B0%B8%E6%B8%85%E5%BD%B1%E8%A7%86&t=1760585411&token=7c61df1c0986cf6019a46388e96aceac
+北京影视，https://stream.iptv-search.com/iptv_test/main.php?id=%E5%8C%97%E4%BA%AC%E5%BD%B1%E8%A7%86&t=1760585411&token=d29ea00ce86075eac667ba2d4b96e620
+南宁影视，https://stream.iptv-search.com/iptv_test/main.php?id=%E5%8D%97%E5%AE%81%E5%BD%B1%E8%A7%86%E5%A8%B1%E4%B9%90&t=1760585411&token=fb39710cc4b1f4055d1e90d8c32fb4cd
+东方影视，https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%8A%E8%A7%86%E4%B8%9C%E6%96%B9%E5%BD%B1%E8%A7%86&t=1760585411&token=e680e03c01a85ceaf743e00038df073e
+东方影视，https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%8A%E8%A7%86%E4%B8%9C%E6%96%B9%E5%BD%B1%E8%A7%86&t=1760585411&token=e680e03c01a85ceaf743e00038df073e
+山西影视，https://stream.iptv-search.com/iptv_test/main.php?id=%E5%B1%B1%E8%A5%BF%E5%BD%B1%E8%A7%86&t=1760585411&token=b46aadc1c31453a4ff28c10403bbd725
+安徽影视，https://stream.iptv-search.com/iptv_test/main.php?id=%E5%AE%89%E5%BE%BD%E5%BD%B1%E8%A7%86&t=1760585411&token=3e02373d127390d163029c764cbeb477
+黑龙江影视，https://stream.iptv-search.com/iptv_test/main.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93&t=1760585411&token=9820de5d7cf96286f6c17c59c9b74a55
+吉林影视，https://stream.iptv-search.com/iptv_test/main.php?id=%E5%90%89%E6%9E%97%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93&t=1760585411&token=fe7d5007ea6af66cfe87baf265264f24
+江苏影视，https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B1%9F%E8%8B%8F%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93&t=1760585411&token=7e21d4bbdc09d9992079cb9878073b7e
+云南影视，https://stream.iptv-search.com/iptv_test/main.php?id=%E4%BA%91%E5%8D%97%E5%BD%B1%E8%A7%86&t=1760585411&token=7c1c9cedd4fee2e3804ca41dff8e0b01
+西安影视，https://stream.iptv-search.com/iptv_test/main.php?id=%E8%A5%BF%E5%AE%89%E6%88%8F%E5%89%A7%E5%BD%B1%E8%A7%86&t=1760585411&token=8042040db0e8ba6b0bcaf1cb37bda099
 
 
+湖北频道,#genre#
+湖北经视，https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B9%96%E5%8C%97%E7%BB%8F%E8%A7%86&t=1757403106&token=c9d8530257bdbf021981b201dcef6852
+湖北生活，https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B9%96%E5%8C%97%E7%94%9F%E6%B4%BB&t=1757403106&token=17fad7f7a339e84fa7b02f61606129aa
+宜昌综合，https://stream.iptv-search.com/iptv_test/main.php?id=%E5%AE%9C%E6%98%8C%E7%BB%BC%E5%90%88&t=1760585411&token=dcd11f94903cebce34916eb0217c6791
+孝感新闻，https://stream.iptv-search.com/iptv_test/main.php?id=%E5%AD%9D%E6%84%9F%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&t=1760585411&token=8102d062aeef792c59d0071334450902
+孝感生活，https://stream.iptv-search.com/iptv_test/main.php?id=%E5%AD%9D%E6%84%9F%E7%94%9F%E6%B4%BB&t=1759030213&token=002bac1ee0803fcfa42cf8afdf00e7e
+汉川新闻，https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B1%89%E5%B7%9D%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&t=1760585411&token=5bb16661c4b8a0b477efa78246929ab8
+汉川新闻，https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B1%89%E5%B7%9D%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&t=1757403106&token=279a694104128442295e5e746a4ab173
 
-
-数字频道,#genre#
-NewTV精品萌宠,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
-NewTV动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-NewTV古装剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
-NewTV明星大片,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
-NewTV惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-NewTV金牌综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-NewTV军事评论,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
-NewTV爱情喜剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
-NewTV精品大剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
-NewTV海外剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
-NewTV精品纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
-NewTV怡伴健康,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
-NewTV精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
-NewTV军旅剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
-NewTV家庭剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
-NewTV武搏世界,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
-NewTV中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
-NewTV农业致富,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
-NewTV潮妈辣婆,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
-NewTV超级综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
-NewTV超级体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-NewTV超级电视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-NewTV超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-NewTV炫舞未来,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
-NewTV东北热剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-NewTV欢乐剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-纪实人文,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
-纪实科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
-黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-卡酷少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
-金鹰卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
-哒啵赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
-优漫卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
-哈哈炫动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
-黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-
-浙江频道,#genre#
-浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+其他频道,#genre#
+熊猫频道1，https://stream.iptv-search.com/iptv_test/main.php?id=%E7%86%8A%E7%8C%AB%E9%A2%91%E9%81%931&t=1760585411&token=dfcd12fc2f4cbc4c344134eac5ea1ada
+熊猫频道2，https://stream.iptv-search.com/iptv_test/main.php?id=%E7%86%8A%E7%8C%AB%E9%A2%91%E9%81%932&t=1760585411&token=9de7421c64e5f245581c890c61c03ab3
 
 
