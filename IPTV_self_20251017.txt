@@ -84,6 +84,8 @@ CCTV-4美洲,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV4%E7%BE%8E
 TVBS,https://stream.iptv-search.com/iptv_test/main.php?id=TVBS&t=1760585411&token=d1fc10d72f62c9b3480ae5e161a530f5
 TVBS,https://stream.iptv-search.com/iptv_test/main.php?id=TVBS&t=1759030213&token=f7d6a720ce2c247279f75a2f0aa4f362
 TVBS,https://stream.iptv-search.com/iptv_test/main.php?id=TVBS&t=1757403106&token=23327077695733860f2b417d47f317a9
+非凡新闻,https://stream.iptv-search.com/iptv_test/main.php?id=%E9%9D%9E%E5%87%A1%E6%96%B0%E9%97%BB&t=1759030213&token=cea848b694c10bc205a1fb1b4bbc41af
+非凡新闻,https://stream.iptv-search.com/iptv_test/main.php?id=%E9%9D%9E%E5%87%A1%E6%96%B0%E9%97%BB%E5%8F%B0&t=1759030213&token=eb00b73b5df248468337e15cf0f0c89b
 东森新闻,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB&t=1760585411&token=e143c6290cdaa4c315b74a96a2591993
 东森新闻,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB&t=1759030213&token=79303e390bb9bf8ae9e958c3d48e9a8e
 东森新闻,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9E&t=1759030213&token=817e8275992a2dfc9d14a4e4bc68e8d8
@@ -163,5 +165,6 @@ CHC影迷电影,https://stream.iptv-search.com/iptv_test/main.php?id=CHC%E5%BD%B
 熊猫频道2,https://stream.iptv-search.com/iptv_test/main.php?id=%E7%86%8A%E7%8C%AB%E9%A2%91%E9%81%932&t=1760585411&token=9de7421c64e5f245581c890c61c03ab3
 苏州4K,https://stream.iptv-search.com/iptv_test/main.php?id=%E8%8B%8F%E5%B7%9E4K%E9%A2%91%E9%81%93&t=1760585411&token=e90c9c80e643d30e17162828eb654427
 直播中国,https://stream.iptv-search.com/iptv_test/main.php?id=%E7%9B%B4%E6%92%AD%E4%B8%AD%E5%9B%BD&t=1757403106&token=390cbb71e53f3473e83dc187fe514bb9
+
 
 
