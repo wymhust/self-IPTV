@@ -1,20 +1,20 @@
 央视频道,#genre#
-CCTV-1,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV1&t=1760585411&token=df1eaa2ae08936d8da14fe1274694f28
-CCTV-2,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV2&t=1760585411&token=b62ec217c9ea32b3ba58ffee43c1e567
-CCTV-3,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV3&t=1760585411&token=d62685a3c74216fb529a697d66a6e0c9
-CCTV-4,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV4%281080p%29&t=1760585411&token=4b9e4365dd539fe9122198078d7fc6e6
-CCTV-5,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV5&t=1760585411&token=11ca3f429dba1df4ad42fb1f50512dfa
-CCTV-5+,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV5%2B&t=1760585411&token=4555e6dbb64f42fbc0175bc8069bd14d
-CCTV-6,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV6&t=1760585411&token=944b6327597e5ab6e14998beedd01e06
+CCTV-1,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV1&t=1761535820&token=e0d3682a414c20a42405e6e906daa092
+CCTV-2,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV2&t=1761535820&token=f376129a7a3bd45f6272090e4bf2931e
+CCTV-3,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV3&t=1761535820&token=94ceb2a589994f81322adead709e19f0
+CCTV-4,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV4&t=1761535820&token=e8f47ed3c74dfa5b9ad8d59df6682572
+CCTV-5,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV5&t=1761535820&token=ba08c45bfa06b30188b308334df13a8e
+CCTV-5+,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV5%2B&t=1761535820&token=1068ffa1f3358f61e459371cf58b58a5
+CCTV-6,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV6&t=1761535820&token=10852e5c8b08d932cbd92ac20cf3f405
 CCTV-7,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV7&t=1760585411&token=ef4566ffc523128175204c2939d3a5b8
-CCTV-8,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV8&t=1760585411&token=68364a3ee862acfdd15da4c8d59bac6e
-CCTV-9,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV9&t=1760585411&token=da9c8b1a8c75b3a27e5d2813c00dc7b2
-CCTV-10,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV10&t=1760585411&token=904dc116f371d163a15a0f3a5bfe48cc
-CCTV-11,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV11&t=1760585411&token=821b5631124e90e68b543463dba4e16a
-CCTV-12,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV12&t=1760585411&token=59ec7ffad1e9e9e38e9afbc330fbea04
-CCTV-13,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV13&t=1760585411&token=cde87db33a1a9c36c65a2f73e3a9ff07
-CCTV-14,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV14&t=1760585411&token=80bd93b5d36b1ec98fcd22d9f926ee09
-CCTV-15,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV15&t=1760585411&token=09554eaa18bb7938b0a35bcb56022466
+CCTV-8,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV8&t=1761535820&token=3a0617f3d0b8e132cb735ac914207e93
+CCTV-9,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV9&t=1761535820&token=542e3d70b754662cf452086127ffde47
+CCTV-10,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV10&t=1761535820&token=10454c725c9b35986b6c9650f7d2a752
+CCTV-11,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV11&t=1761535820&token=4fafb9194ede3458047e0659d9d048bf
+CCTV-12,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV12&t=1761535820&token=b3dc3c7ffe881d92bb52bdccdae922e8
+CCTV-13,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV13&t=1761535820&token=feed83fcf8123446aa3fc9cdf8a2dfa2
+CCTV-14,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV14&t=1761535820&token=c862e5ff8a26518eedc9a441104fc895
+CCTV-15,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV15&t=1761535820&token=e645846307f75d940453022b1cfbd695
 CCTV-16,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV16&t=1760585411&token=eb2b75771d80d23c058e0a85107d1183
 CCTV-17,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV17&t=1760585411&token=89eb1f4f348a08ea121906fb91d25934
 CETV-1,https://stream.iptv-search.com/iptv_test/main.php?id=CETV1&t=1760585411&token=1f2f035bfffefb73aa1c1977ee603b33
@@ -165,6 +165,7 @@ CHC影迷电影,https://stream.iptv-search.com/iptv_test/main.php?id=CHC%E5%BD%B
 熊猫频道2,https://stream.iptv-search.com/iptv_test/main.php?id=%E7%86%8A%E7%8C%AB%E9%A2%91%E9%81%932&t=1760585411&token=9de7421c64e5f245581c890c61c03ab3
 苏州4K,https://stream.iptv-search.com/iptv_test/main.php?id=%E8%8B%8F%E5%B7%9E4K%E9%A2%91%E9%81%93&t=1760585411&token=e90c9c80e643d30e17162828eb654427
 直播中国,https://stream.iptv-search.com/iptv_test/main.php?id=%E7%9B%B4%E6%92%AD%E4%B8%AD%E5%9B%BD&t=1757403106&token=390cbb71e53f3473e83dc187fe514bb9
+
 
 
 
