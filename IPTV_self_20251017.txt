@@ -85,55 +85,7 @@ CCTV16 4K,http://175.10.57.245:8888/udp/239.76.254.200:9000
 CCTV16 4K,http://175.10.57.245:8888/udp/239.76.253.230:9000
 
 海外频道,#genre#
-凤凰中文,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87&t=1760585411&token=a3273800aae6f441f4e2d29b2e5548ea
-凤凰资讯,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF&t=1760585411&token=7febd5c752dfb809741498d669ef0cad
-凤凰资讯,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AFHD&t=1759030213&token=fe01558d5195de9e55f15219d6bda409
-凤凰资讯,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF%E9%AB%98%E6%B8%85&t=1759030213&token=f41e72bb76ad2c92c53f16c92c48e236
-凤凰香港,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF&t=1760585411&token=3204f88a14e73924374c42ba4794dc16
-凤凰香港,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF%E5%8F%B0&t=1759030213&token=1c99061bead28347fcdb6b7ac60f5aed
-无线新闻台,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0&t=1760585411&token=47a0ccc5fd19c60136ef8e9f357d1bc2
-无线新闻台,https://stream.iptv-search.com/iptv_test/main.php?id=TVB%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB&t=1759030213&token=6e3246ef0e85f20f24e59c25052f5d94
-无线新闻台,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0&t=1759030213&token=e1984154bf7ed0a37565cffd0cac873e
-翡翠台,https://stream.iptv-search.com/iptv_test/main.php?id=TVB%E7%BF%A1%E7%BF%A0%E5%8F%B04K&t=1759030213&token=11dbe9509de2ed321beb2a989db88749
-明珠台,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%98%8E%E7%8F%A0%E5%8F%B0&t=1760585411&token=1b795aa9f77dd8046bb05ce97ee38ea0
-明珠台,https://stream.iptv-search.com/iptv_test/main.php?id=TVB%E6%98%8E%E7%8F%A0%E5%8F%B0&t=1759030213&token=b9e7226b0c8937ed9a2ca1a9786563b4
-中天新闻,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB%E5%8F%B0&t=1760585411&token=931f1bcfc8b2ba653d12da766020e0de
-中天新闻,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB&t=1759030213&token=7215e767d0732219c381eb9a486edd75
-中天新闻,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB+HD&t=1759030213&token=fad10f6c737197d60e586ff6084d7fd7
-TVBS,https://stream.iptv-search.com/iptv_test/main.php?id=TVBS&t=1760585411&token=d1fc10d72f62c9b3480ae5e161a530f5
-TVBS,https://stream.iptv-search.com/iptv_test/main.php?id=TVBS&t=1759030213&token=f7d6a720ce2c247279f75a2f0aa4f362
-TVBS,https://stream.iptv-search.com/iptv_test/main.php?id=TVBS&t=1757403106&token=23327077695733860f2b417d47f317a9
-非凡新闻,https://stream.iptv-search.com/iptv_test/main.php?id=%E9%9D%9E%E5%87%A1%E6%96%B0%E9%97%BB&t=1759030213&token=cea848b694c10bc205a1fb1b4bbc41af
-非凡新闻,https://stream.iptv-search.com/iptv_test/main.php?id=%E9%9D%9E%E5%87%A1%E6%96%B0%E9%97%BB%E5%8F%B0&t=1759030213&token=eb00b73b5df248468337e15cf0f0c89b
-东森新闻,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB&t=1760585411&token=e143c6290cdaa4c315b74a96a2591993
-东森新闻,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB&t=1759030213&token=79303e390bb9bf8ae9e958c3d48e9a8e
-东森新闻,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9E&t=1759030213&token=817e8275992a2dfc9d14a4e4bc68e8d8
-环球电视,https://stream.iptv-search.com/iptv_test/main.php?id=%E7%8E%AF%E7%90%83%E7%94%B5%E8%A7%86&t=1759030213&token=b642875f4080ff0043c224375f6921c5
-台视新闻,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB&t=1760585411&token=4a3c775c74948fe7471649ec49c62696
-台视新闻,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB&t=1759030213&token=5ad764ad390ef9b8e58988810941bfac
-台视新闻,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB&t=1757403106&token=c7ce0fbfc2a5c15b40b27a5dfd461764
-中视新闻,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB&t=1760585411&token=4df54492ba884d578f7b0115f46503b1
-中视新闻,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB&t=1759030213&token=363c340e7ec545a96dacd17ec2bcfe8c
-中视新闻,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB&t=1757403106&token=ce2396c627431da26e4de8e95ba1dac3
-民视新闻,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB&t=1759030213&token=7c21c70fadd337301654e13f9cb040d5
-民视新闻,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB&t=1757403106&token=61016017404e28bd03672a4109032639
-三立新闻,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%89%E7%AB%8B%E6%96%B0%E8%81%9E&t=1759030213&token=600f8d5ea4d93c3241d8235e7192b415
-三立新闻,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%89%E7%AB%8B%E6%96%B0%E8%81%9E&t=1757403106&token=8df8f19794454f4ae562e39fdf87bc7b
-三立iNEWS,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%89%E7%AB%8BiNEWS&t=1760585411&token=fbef147e29607bd1336ac44678e8fb65
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-Arirang,https://stream.iptv-search.com/iptv_test/main.php?id=arirang+KOREA&t=1760585411&token=ee5702eba2b6d72f3d8b3f8b2ffd5f2a
-TRT World,http://parking.treasureislandresortsworld.com:1001/hls/310/index.m3u8
-TRT World,http://210.210.155.35/uq2663/h/h156/index2.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=TRT_World
-NHK World,https://stream.iptv-search.com/iptv_test/main.php?id=NHK+World-Japan+%28720p%29&t=1760585411&token=15accfc82c5db92a27738ed690e831d9
-NHK World,https://stream.iptv-search.com/iptv_test/main.php?id=NHKWorld&t=1760585411&token=ce8f138b424685afff52b1aa33148011
-NHK World,https://stream.iptv-search.com/iptv_test/main.php?id=NHKWorld&t=1759030213&token=388692a7b841b29ff2bfa87a22012a12
-BBC News,https://stream.iptv-search.com/iptv_test/main.php?id=BBC+News+Asia+Pacific+%281080p%29&t=1760585411&token=a38db6637755ae68d184f9b565364629
-CNN,https://stream.iptv-search.com/iptv_test/main.php?id=CNN+USA+%28720p%29&t=1760585411&token=eedf255124e1f351f5d122812c2d309d
-CNN,https://stream.iptv-search.com/iptv_test/main.php?id=CNN+USA+%28720p%29&t=1759030213&token=ca669afa4da98d66389d79f9debbfb98
-Al Jazeera,https://stream.iptv-search.com/iptv_test/main.php?id=Al+Jazeera+English+%281080p%29&t=1760585411&token=aa8cf04135d9ef20e7176b1ba6fb239b
-Al Jazeera,https://stream.iptv-search.com/iptv_test/main.php?id=Al+Jazeera+%281080p%29&t=1760585411&token=e14c822b475d95e5a6bec9a22d486879
-Al Jazeera,https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
+
 
 影视频道,#genre#
 江苏卫视4K,http://175.10.57.245:8888/udp/239.76.254.216:9000
@@ -254,17 +206,23 @@ IPTV5hd,http://175.10.57.245:8888/udp/239.76.252.222:9000
 
 
 湖北频道,#genre#
-湖北经视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B9%96%E5%8C%97%E7%BB%8F%E8%A7%86&t=1757403106&token=c9d8530257bdbf021981b201dcef6852
-湖北生活,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B9%96%E5%8C%97%E7%94%9F%E6%B4%BB&t=1757403106&token=17fad7f7a339e84fa7b02f61606129aa
-宜昌综合,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%AE%9C%E6%98%8C%E7%BB%BC%E5%90%88&t=1760585411&token=dcd11f94903cebce34916eb0217c6791
-孝感新闻,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%AD%9D%E6%84%9F%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&t=1760585411&token=8102d062aeef792c59d0071334450902
-孝感生活,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%AD%9D%E6%84%9F%E7%94%9F%E6%B4%BB&t=1759030213&token=002bac1ee0803fcfa42cf8afdf00e7e
-汉川新闻,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B1%89%E5%B7%9D%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&t=1760585411&token=5bb16661c4b8a0b477efa78246929ab8
-汉川新闻,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B1%89%E5%B7%9D%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&t=1757403106&token=279a694104128442295e5e746a4ab173
-荆门新闻,https://stream.iptv-search.com/iptv_test/main.php?id=%E8%8D%86%E9%97%A8%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&t=1760585411&token=4c16d47651dcf009d7c38d43c91353aa
-荆门科教,https://stream.iptv-search.com/iptv_test/main.php?id=%E8%8D%86%E9%97%A8%E7%A7%91%E6%95%99%E6%96%87%E6%97%85&t=1760585411&token=c423faf69428dbe61d78cb654df3857a
-
-
+湖北经视,http://221.232.196.199:7777/tsfile/live/0132_3.m3u8?key=txiptv&playlive=1&authid=0
+湖北经视,http://27.17.184.164:8888/rtp/239.69.1.41:9886
+湖北综合,http://221.232.196.199:7777/tsfile/live/0132_4.m3u8?key=txiptv&playlive=1&authid=0
+湖北公共,http://221.232.196.199:7777/tsfile/live/0132_2.m3u8?key=txiptv&playlive=1&authid=0
+湖北垄上,http://27.17.184.164:8888/rtp/239.69.1.43:9898
+湖北影视,http://27.17.184.164:8888/rtp/239.69.1.204:10866
+湖北生活,http://27.17.184.164:8888/rtp/239.69.1.205:10872
+武汉综合,http://27.17.184.164:8888/rtp/239.69.1.145:10506
+武汉教育,http://27.17.184.164:8888/rtp/239.69.1.60:9994
+武汉文体,http://27.17.184.164:8888/rtp/239.69.1.147:10518
+武汉电视剧,http://27.17.184.164:8888/rtp/239.69.1.146:10512
+武汉科技生活,http://27.17.184.164:8888/rtp/239.69.1.251:11148
+蔡甸综合,http://27.17.184.164:8888/rtp/239.69.1.245:11112
+房县综合,http://27.17.184.164:8888/rtp/239.69.1.192:10794
+阳新综合,http://27.17.184.164:8888/rtp/239.69.1.34:9844
+中学生,http://27.17.184.164:8888/rtp/239.69.2.17:11256
+法治天地,http://27.17.184.164:8888/rtp/239.69.2.10:11214
 
 
 
