@@ -85,6 +85,62 @@ CCTV16 4K,http://175.10.57.245:8888/udp/239.76.254.200:9000
 CCTV16 4K,http://175.10.57.245:8888/udp/239.76.253.230:9000
 
 海外频道,#genre#
+[HD]营山[geo-blocked],rtmp://tv.drs.ysxtv.cn/channellive/ystv-bak
+[HD]dazn1[geo-blocked],rtmp://f13h.mine.nu/sat/tv731
+[HD]momo综合[geo-blocked],rtmp://f13h.mine.nu/sat/tv761
+[HD]momo綜合[geo-blocked],rtmp://f13h.mine.nu:1935/sat/tv761
+[VGA]中天新闻[geo-blocked],rtmp://home.aceimage.cn/live/xiangjiaoge-ztxw
+[HD]中视[geo-blocked],rtmp://f13h.mine.nu/sat/tv091
+[HD]台视[geo-blocked],rtmp://f13h.mine.nu:1935/sat/tv071
+[HD]台视[geo-blocked],rtmp://f13h.mine.nu/sat/tv071
+[HD]东森超视[geo-blocked],rtmp://f13h.mine.nu/sat/tv331
+[HD]民視[geo-blocked],rtmp://f13h.mine.nu/sat/tv051
+[HD]纬来日本[geo-blocked],rtmp://f13h.mine.nu/sat/tv771
+[HD]緯來育樂[geo-blocked],rtmp://f13h.mine.nu/sat/tv701
+[HD]纬来体育[geo-blocked],rtmp://f13h.mine.nu/sat/tv721
+[HD]纬来体育[geo-blocked],rtmp://f13h.mine.nu:1935/sat/tv721
+[HD]华视[geo-blocked],rtmp://f13h.mine.nu/sat/tv111
+[HD]非凡新聞[geo-blocked],rtmp://f13h.mine.nu/sat/tv581
+[BD]爆谷,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-bg
+[BD]axn,https://stream1.freetv.fun/a90e3f94ae8e9894f6509d20488fe16ca4710cf21b3ef8db24b3be1feb56f635.m3u8
+[HD]axn,https://stream1.freetv.fun/26bff82af8617de50deb3ab1b03e1939b0cd549c167b4c6302c18454565ef74a.ctv
+[HD]axn,https://stream1.freetv.fun/b2cc329cc8bf6b9874f6daeb18dc1bac64f67638a3d7c8c392a3c5bda12e6721.ctv
+[BD]axn,https://stream1.freetv.fun/8acc4c2d24ccce17f0a64111fc64063a71054ebcd8d93b2971fe36de4e21c1f9.ctv
+[HD]axn,https://stream1.freetv.fun/f960fb1159da64498caa89659e220366fcc0942cac0cc7c3cb2a8fbf80bbe826.m3u8
+[VGA]axn[geo-blocked],https://stream1.freetv.fun/60d1a814f3b2abd27ed578ed604c654c1ce3e5c0931d9eaa3d5ab05c8bf85ea8.m3u8
+[BD]axn[geo-blocked],https://stream1.freetv.fun/af7be3c3e9c5bd28da8a82ce4f6d919a8f67a27e1ce2a695f2e02667db10adb9.m3u8
+[BD]msg plus,https://stream1.freetv.fun/a047c710244f4b5f73a0133b29d1a1952284c10f8f23bbbfc5bdb0ca016d454c.ctv
+[BD]cna,https://stream1.freetv.fun/8a2b00784e84e617c0de3585616ef37a1890abde4e1cfa950e03368a637b96bf.m3u8
+[HD]CNA[geo-blocked],https://stream1.freetv.fun/c45edc6faf8aadb7ce17e46340a9dcc78591ad1bbad2433fc51375919f32380e.ctv
+[BD]cna,https://stream1.freetv.fun/c43770050ab536ec324d970ac910557c994334aef9d1d3be305db2813476a347.m3u8
+[SD]cna,https://stream1.freetv.fun/ad3b3dde62843ee18770e05f263aa10dccac712c8e04a6cdd2670b0a292241bc.m3u8
+[BD]cna,https://stream1.freetv.fun/92cc442300c5880e302814cdf279ce0ee183c2dec3802661e8c7dd601d2a9652.m3u8
+[BD]cna[geo-blocked],https://stream1.freetv.fun/7e5df337a98e3174cd5d6d87404197cb3f88828d880f686ba7465f68066ee59c.m3u8
+[BD]insider,https://stream1.freetv.fun/c6f18bde45def005cfd831bee639e6aa807ff83bf74e1528fac075d088db6d7d.m3u8
+[BD]channel 5,https://stream1.freetv.fun/8fec28164f4e0ef3179c6c34b3c100e5c15fb7b6bfb2c872cd8669d03460f0f5.m3u8
+[BD]Channel 5[geo-blocked],https://stream1.freetv.fun/9dba21dcced47483d0b91e268d5e7921192cbe65046364ce13d0c19284b6356b.m3u8
+[BD]channel 11,https://stream1.freetv.fun/5dde38a22ad40fb7454f5bd831816fca00b457cac9017a4802203de2fcfbdad8.m3u8
+[BD]Channel U[geo-blocked],https://stream1.freetv.fun/8dc4a8e7c285de42e2f00f05fef0de6d3267e1f1eeb20529a5c71d36088fb0ee.m3u8
+[BD]cnanews-hd（新加坡）,https://stream1.freetv.fun/db726b043fc43d2de2131785ba553f0951df916945e49223c208879bc6a2841b.m3u8
+[BD]cnanews-hd（新加坡）,https://stream1.freetv.fun/7b52a960c67bf9995ac3e640b82672436167255803ade528381a939e99ea08c3.m3u8
+BBC News (1080p),https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
+BBC Earth (1080p),https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+ABC News (720p),https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+CNA International (1080p),https://mediacorp-videosbclive.akamaized.net/dd724cfb0e8e4cdc921bbc4ac94614bf/ap-southeast-1/6057994443001/playlist.m3u8
+CNA Originals (1080p),https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
+CNBC (720p),https://www.newslive.com/business/cnbc-live-free.html
+CNBC (1080p),https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
+CNBC Asia (720p),https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8
+CNBC Europe HD (1080p) [Geo-Blocked],https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
+CNBC Mongolia (720p),https://cdn4.skygo.mn/live/disk1/CNBC/HLSv3-FTA/CNBC.m3u8
+DW English (1080p),https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+MNB World (1080p),https://cdn4.skygo.mn/live/disk1/MNB_World/DASH-FTA/MNB_World.mpd
+NHK World-Japan (1080p),https://livehub-voidnet.onrender.com/cluster/streamcore/jp/NHK_StreamOrchestrator.m3u8
+RT India (1080p),https://rt-india.rttv.com/dvr/rtindia/playlist.m3u8
+RT News (1080p) [Not 24/7],https://odysee.com/
+TRT World HD,https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
+Al Jazeera English (1080p),https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
+
 
 
 影视频道,#genre#
@@ -231,6 +287,8 @@ IPTV5hd,http://175.10.57.245:8888/udp/239.76.252.222:9000
 熊猫频道2,https://stream.iptv-search.com/iptv_test/main.php?id=%E7%86%8A%E7%8C%AB%E9%A2%91%E9%81%932&t=1760585411&token=9de7421c64e5f245581c890c61c03ab3
 苏州4K,https://stream.iptv-search.com/iptv_test/main.php?id=%E8%8B%8F%E5%B7%9E4K%E9%A2%91%E9%81%93&t=1760585411&token=e90c9c80e643d30e17162828eb654427
 直播中国,https://stream.iptv-search.com/iptv_test/main.php?id=%E7%9B%B4%E6%92%AD%E4%B8%AD%E5%9B%BD&t=1757403106&token=390cbb71e53f3473e83dc187fe514bb9
+
+
 
 
 
